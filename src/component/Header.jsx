@@ -53,7 +53,11 @@ const Header = () => {
 
               <li class="nav-item">
                 <a class="nav-link" >
+<<<<<<< HEAD
                   Consult Doctors please
+=======
+                  Consult Doctors
+>>>>>>> 6d73691705b4d1cfd9754949b4748a069c396fbb
                 </a>
               </li>
 
